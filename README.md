@@ -18,9 +18,9 @@ Run the installation directly from the Setup.exe file in Win always. Can use Win
 * If you want to use IE11 (x86), go to C:\Program Files (x86)\Internet Explorer and run the file iexplore.exe (send to shortcut to Desktop after just Click to run IE immediately)
 # Download link
 Original link from Nathan Nguyễn:
-*Download GG Drive: https://drive.google.com/.../1ePHs8NVv2ecYZBcwKR.../view...
-*Download Fshare (copy link - clicking directly will report an error): https://www.fshare.vn/file/AZUY11P8SX4I
-*MD5 code: 4AE8AF128CD807948A0D6A73D4BBFACE
+* Download GG Drive: https://drive.google.com/.../1ePHs8NVv2ecYZBcwKR.../view...
+* Download Fshare (copy link - clicking directly will report an error): https://www.fshare.vn/file/AZUY11P8SX4I
+* MD5 code: 4AE8AF128CD807948A0D6A73D4BBFACE
 # Credit
 * Full credit belong to Nathan Nguyễn
 * I only post and translate.
